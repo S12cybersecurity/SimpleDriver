@@ -1,13 +1,12 @@
 ﻿  Building 'Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
   Stamping x64\Debug\Driver.inf
-  Stamping [Version] section with DriverVer=09/25/2024,21.42.59.895
-  Driver.cpp
+  Stamping [Version] section with DriverVer=10/01/2024,22.59.3.194
   Driver.vcxproj -> V:\KernelLand\RegularDriver\Driver\x64\Debug\Driver.sys
   Done Adding Additional Store
   Successfully signed: V:\KernelLand\RegularDriver\Driver\x64\Debug\Driver.sys
   
   Driver is 'Universal'.
-  ........................
+  .........................
   Signability test complete.
   
   Errors:
@@ -21,5 +20,3 @@
   Done Adding Additional Store
   Successfully signed: V:\KernelLand\RegularDriver\Driver\x64\Debug\Driver\driver.cat
   
-  "pwsh.exe" no se reconoce como un comando interno o externo,
-  programa o archivo por lotes ejecutable.
